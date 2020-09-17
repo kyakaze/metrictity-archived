@@ -1,15 +1,21 @@
 # *METRICITY* - CoderSchool FTW Final Capstone Project
 ### Created with love by: Khoa Dam
+
 ### View online at: https://damanhkhoa.com
-### [Watch the Demo](https://www.loom.com/share/3b1f0ba0f5b64d8889742f77fb74426a)
-
-![Screenshot](https://github.com/kyakaze/Metricity-backend/blob/master/screenshot.png)
 
 
-## Test info:
+## 🚀 Test info 🚀:
 - email: **test@gmail.com**
 - password: **foobar**
 - [sample csv file to import](https://www.dropbox.com/s/tv2dfn647so9ypz/avocadodate.csv?dl=0)
+
+
+
+
+
+### [Watch the Demo](https://www.loom.com/share/3b1f0ba0f5b64d8889742f77fb74426a)
+
+![Screenshot](https://github.com/kyakaze/Metricity-backend/blob/master/screenshot.png)
 
 
 ## Notes: 
