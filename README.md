@@ -6,6 +6,12 @@
 ![Screenshot](https://github.com/kyakaze/Metricity-backend/blob/master/screenshot.png)
 
 
+## Test info:
+- email: **test@gmail.com**
+- password: **foobar**
+- [sample csv file to import](https://www.dropbox.com/s/tv2dfn647so9ypz/avocadodate.csv?dl=0)
+
+
 ## Notes: 
  - App was not maintained at all.
  - Some functionalities (especially emails) stop working since the app was made long time ago without maintenance. 
