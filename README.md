@@ -3,7 +3,7 @@
 ### View online at: https://damanhkhoa.com
 ### [Watch the Demo](https://www.loom.com/share/3b1f0ba0f5b64d8889742f77fb74426a)
 
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/kyakaze/Metricity-backend/blob/master/screenshot.png)
 
 
 ## Notes: 
